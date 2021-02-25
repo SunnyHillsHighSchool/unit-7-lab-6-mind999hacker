@@ -1,1 +1,1 @@
-run_button.sh
+run = "bash run_button.sh"
